@@ -1,4 +1,4 @@
-# domain to ip
+#!/user/bin/python2
 import socket
 import pyfiglet # color package
 from termcolor import colored #for color text
