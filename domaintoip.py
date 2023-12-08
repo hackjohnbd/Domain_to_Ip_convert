@@ -1,4 +1,4 @@
-#!/user/bin/python2
+#!/user/bin/python3
 import socket
 import pyfiglet # color package
 from termcolor import colored #for color text
